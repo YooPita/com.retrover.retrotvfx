@@ -1,0 +1,7 @@
+{
+  "name": "com.yoopita.retrotvfx",
+  "version": "1.0.0",
+  "type": "shader",
+  "displayName": "Retro TV shader",
+  "unity": "2021.3"
+}

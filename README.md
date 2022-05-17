@@ -40,7 +40,7 @@ Make sure you have standalone [Git](https://git-scm.com/downloads) installed fir
 
 ![alt text](https://github.com/YooPita/com.yoopita.retrotvfx/blob/main/DemoImages/installation.png)
 
-And paste this: `https://github.com/YooPita/com.yoopita.retrotvfx.git#1.0.0`
+And paste this: `https://github.com/YooPita/com.yoopita.retrotvfx.git`
 
 Or just copy the repository to your project files.
 

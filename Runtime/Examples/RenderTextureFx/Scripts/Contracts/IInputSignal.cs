@@ -1,4 +1,4 @@
-namespace YooPita.RetroFx.RenerTextureFx
+namespace Retrover.RetroFx.RenerTextureFx
 {
     public interface IInputSignal
     {

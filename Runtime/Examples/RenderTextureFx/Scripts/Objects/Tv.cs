@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace YooPita.RetroFx.RenerTextureFx
+namespace Retrover.RetroFx.RenerTextureFx
 {
     public class Tv : MonoBehaviour
     {

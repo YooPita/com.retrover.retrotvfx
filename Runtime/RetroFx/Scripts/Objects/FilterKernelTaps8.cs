@@ -1,4 +1,4 @@
-namespace YooPita.RetroFx
+namespace Retrover.RetroFx
 {
     public static class FilterKernelTaps8
     {

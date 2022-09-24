@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace YooPita.RetroFx.CameraFx
+namespace Retrover.RetroFx.CameraFx
 {
     [RequireComponent(typeof(Camera))]
     public class CameraRetroTvEffect : MonoBehaviour

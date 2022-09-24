@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace YooPita.RetroFx
+namespace Retrover.RetroFx
 {
     public interface IVirtualRenderTexture
     {

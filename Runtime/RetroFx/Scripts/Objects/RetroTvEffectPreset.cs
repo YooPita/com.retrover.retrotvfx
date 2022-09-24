@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace YooPita.RetroFx
+namespace Retrover.RetroFx
 {
     [System.Serializable, CreateAssetMenu(fileName = "TvFxPreset", menuName = "ScriptableObjects/TvFxPreset")]
     public class RetroTvEffectPreset : ScriptableObject

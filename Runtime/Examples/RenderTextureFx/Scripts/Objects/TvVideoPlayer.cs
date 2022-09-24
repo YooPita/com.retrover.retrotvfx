@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Video;
 
-namespace YooPita.RetroFx.RenerTextureFx
+namespace Retrover.RetroFx.RenerTextureFx
 {
     [RequireComponent(typeof(VideoPlayer))]
     public class TvVideoPlayer : MonoBehaviour, IInputSignal

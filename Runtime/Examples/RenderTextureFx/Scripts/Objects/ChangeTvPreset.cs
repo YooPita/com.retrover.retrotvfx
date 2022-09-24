@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace YooPita.RetroFx.RenerTextureFx
+namespace Retrover.RetroFx.RenerTextureFx
 {
     [RequireComponent(typeof(Button))]
     public class ChangeTvPreset : MonoBehaviour

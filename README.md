@@ -14,13 +14,13 @@ Unity package. Flexible code to implement in your retro style project.
 ## Demonstration
 
 This is the most popular example of dithering!
-![alt text](https://github.com/YooPita/com.yoopita.retrotvfx/blob/main/DemoImages/md_sonic_demo.png)
+![alt text](https://github.com/YooPita/com.retrover.retrotvfx/blob/main/DemoImages/md_sonic_demo.png)
 
 TV example. It's called "RenerTextureFx" and is located in the "Examples" folder.
-![alt text](https://github.com/YooPita/com.yoopita.retrotvfx/blob/main/DemoImages/tv_demo.png)
+![alt text](https://github.com/YooPita/com.retrover.retrotvfx/blob/main/DemoImages/tv_demo.png)
 
 Screen effect example. It's called "CameraFx" and is located in the "Examples" folder.
-![alt text](https://github.com/YooPita/com.yoopita.retrotvfx/blob/main/DemoImages/tv_fx_2d_widescreen_demo.png)
+![alt text](https://github.com/YooPita/com.retrover.retrotvfx/blob/main/DemoImages/tv_fx_2d_widescreen_demo.png)
 
 ## Description of shader settings from the original repository
 
@@ -38,9 +38,9 @@ old consoles did work this way.
 
 Make sure you have standalone [Git](https://git-scm.com/downloads) installed first.
 
-![alt text](https://github.com/YooPita/com.yoopita.retrotvfx/blob/main/DemoImages/installation.png)
+![alt text](https://github.com/YooPita/com.retrover.retrotvfx/blob/main/DemoImages/installation.png)
 
-And paste this: `https://github.com/YooPita/com.yoopita.retrotvfx.git`
+And paste this: `https://github.com/YooPita/com.retrover.retrotvfx.git`
 
 Or just copy the repository to your project files.
 
